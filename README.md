@@ -14,11 +14,13 @@ powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-st
 <!-- this chart lies, cause of isucon... -->
 <!-- my favorite lang is Rust! 🦀 -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK-10&hide=TSQL,perl) -->
-<!--
-**AK-10/AK-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Pins
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=AK-10&repo=rust_chibicc)](https://github.com/AK-10/rust_chibicc)
+[![RustChibicc Card](https://github-readme-stats.vercel.app/api/pin?username=AK-10&repo=rust_chibicc)](https://github.com/AK-10/rust_chibicc)
+
+
+<!--
+**AK-10/AK-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
