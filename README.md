@@ -1,19 +1,24 @@
 hi, I'm AK-10, Noob programmer
 
-### interest
+### Interest
 - programming laungage systems
 - functional programming
 - type systems
 
 ### Stats
 
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=AK-10&count_private=true&show_icons=true)
+![My GitHub Status](https://github-readme-stats.vercel.app/api?username=AK-10&count_private=true&show_icons=true&theme=buefy)
+
+powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- this chart lies, cause of isucon... -->
 <!-- my favorite lang is Rust! 🦀 -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AK-10&hide=TSQL,perl) -->
 <!--
 **AK-10/AK-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Pins
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin?username=AK-10&repo=rust_chibicc)](https://github.com/AK-10/rust_chibicc)
 
 Here are some ideas to get you started:
 
