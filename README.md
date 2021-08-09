@@ -4,6 +4,7 @@ hi, I'm AK-10, Noob programmer
 - programming laungage systems
 - functional programming
 - type systems
+- infrastructure
 
 ### Stats
 
