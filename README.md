@@ -18,6 +18,7 @@ powered by [github-readme-stats](https://github.com/anuraghazra/github-readme-st
 
 ### Pins
 [![RustChibicc Card](https://github-readme-stats.vercel.app/api/pin?username=AK-10&repo=rust_chibicc)](https://github.com/AK-10/rust_chibicc)
+[![Kiroro Card](https://github-readme-stats.vercel.app/api/pin?username=AK-10&repo=kiroro)](https://github.com/AK-10/kiroro)
 
 
 <!--
